@@ -81,6 +81,10 @@ You can click the Preview link to take a look at your changes.
 <code><img height="30" src="https://avatars.githubusercontent.com/u/47798062?s=200&v=4"></code>
 <code><img height="30" src="https://www.saashub.com/images/app/service_logos/45/52b54fa6b6bc/large.png?1555655428"></code>
 
+___
+
+![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Chauhan14&theme=tokyonight&show_icons=true) 
+
 
 ## Contact 📞
 
