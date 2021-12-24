@@ -1,3 +1,6 @@
+# Hi wave, I'm Prashant Chauhan
+### A passionate Android Developer and coding enthusiast from India
+### Love to explore my learning
 - 👋 Hi, I’m @Prashant-Chauhan14
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning - Machine Learning
