@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Chauhan14&show_icons=true&locale=en&layout=compact" alt="Prashant-Chauhan14" /></p>
+<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Chauhan14&show_icons=true&locale=en&layout=compact" alt="Prashant-Chauhan14" /></p>
 
 ___
 
