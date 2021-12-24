@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prashant_Chauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/prashant-chauhan-76800a195/)](https://https://www.linkedin.com/in/prashant-chauhan-76800a195/)
 [![Twitter Badge](https://img.shields.io/badge/-@Prashan_Kumar_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prashan_Kumar_)](https://twitter.com/Prashan_Kumar_)
-[![Gmail Badge](https://img.shields.io/badge/-Prashant-Chauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prashantkumar050171@gmail.com)](mailto:prashantkumar050171@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Prashant_Chauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prashantkumar050171@gmail.com)](mailto:prashantkumar050171@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
 <!-- [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/atharvaingle)](https://www.kaggle.com/atharvaingle) -->
 <!-- [![Website Badge](https://img.shields.io/badge/-atharva_ai-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://atharvaai7.wordpress.com/)](https://atharvaai7.wordpress.com/) -->
