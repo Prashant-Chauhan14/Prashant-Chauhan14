@@ -83,7 +83,11 @@ You can click the Preview link to take a look at your changes.
 
 ___
 
-![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Chauhan14&theme=tokyonight&show_icons=true) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Chauhan14&show_icons=true&locale=en&layout=compact" alt="Prashant-Chauhan14" /></p>
+
+___
+
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Chauhan14&theme=tokyonight&show_icons=true) 
 
 
 ## Contact 📞
