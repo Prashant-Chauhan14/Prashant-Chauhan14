@@ -6,7 +6,7 @@
 
 <h5 align="center"><i>(Feel free to contact me via any social-media platforms below)</i></h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prashant_Chauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-chauhan-76800a195/)](/https://www.linkedin.com/in/prashant-chauhan-76800a195/)
+[![Linkedin Badge](https://img.shields.io/badge/-Atharva_Ingle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-chauhan-76800a195/)](https://www.linkedin.com/in/prashant-chauhan-76800a195/)
 [![Twitter Badge](https://img.shields.io/badge/-@Prashan_Kumar_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prashan_Kumar_)](https://twitter.com/Prashan_Kumar_)
 [![Gmail Badge](https://img.shields.io/badge/-Prashant_Chauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prashantkumar050171@gmail.com)](mailto:prashantkumar050171@gmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
